@@ -1,0 +1,67 @@
+[
+    {
+        "icon": "/images/btc.png",
+        "title": "Bitcoin (BTC)",
+        "price": "$31,812.80",
+        "deltaPercent": "10%",
+        "positiveDelta": true,
+        "tvl": "$60,0000",
+        "popularPairs": [
+            "/images/sol.png",
+            "/images/eth.png",
+            "images/busd.png"
+        ]
+    },
+    {
+        "icon": "/images/sol.png",
+        "title": "Solana (SOL)",
+        "price": "$32.83",
+        "deltaPercent": "12.32%",
+        "positiveDelta": false,
+        "tvl": "$60,0000",
+        "popularPairs": [
+            "/images/btc.png",
+            "/images/eth.png",
+            "images/busd.png"
+        ]
+    },
+    {
+        "icon": "/images/eth.png",
+        "title": "Ethereum (ETH)",
+        "price": "$1,466.45",
+        "deltaPercent": "11.93%",
+        "positiveDelta": false,
+        "tvl": "$60,0000",
+        "popularPairs": [
+            "/images/sol.png",
+            "/images/btc.png",
+            "images/busd.png"
+        ]
+    },
+    {
+        "icon": "/images/busd.png",
+        "title": "Binance USD (BUSD)",
+        "price": "$1.00",
+        "deltaPercent": "0.26%",
+        "positiveDelta": true,
+        "tvl": "$60,0000",
+        "popularPairs": [
+            "/images/sol.png",
+            "/images/eth.png",
+            "images/btc.png"
+        ]
+    },
+    {
+        "icon": "/images/shib.png",
+        "title": "Shiba Inu (SHIB)",
+        "price": "$0.00000001948",
+        "deltaPercent": "8.1%",
+        "positiveDelta": false,
+        "tvl": "$60,0000",
+        "popularPairs": [
+            "/images/sol.png",
+            "/images/eth.png",
+            "images/btc.png"
+        ]
+    }
+]
